@@ -1,0 +1,3 @@
+load_data_path: /media/kdh/Datasets/3w/intoelv/yolo_coco
+save_txt_path: /media/kdh/Datasets/3w/intoelv/yolo_coco
+# move_path: ./move_path
