@@ -272,9 +272,9 @@ class LabelEditor():
 def main():
     da = LabelEditor()
     da.rebuild_label_coco()
-    da.rebuild_label_cluster()
-    da.rebuild_label_ipark()
-    da.rebuild_label_dorm()
+    # da.rebuild_label_cluster()
+    # da.rebuild_label_ipark()
+    # da.rebuild_label_dorm()
 
 
 if __name__ == '__main__':
